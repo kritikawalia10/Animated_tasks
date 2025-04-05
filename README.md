@@ -51,3 +51,12 @@ FocusFlow is a sleek, modern productivity web app that combines a Pomodoro timer
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+## Screenshots
+https://drive.google.com/file/d/1uCJdsDSTFuCOat33DKWoz4U2QZ1M5kw-/view?usp=sharing
+https://drive.google.com/file/d/17d-Nb1EGgtArz19o4S28eFF1mkxVO9sP/view?usp=sharing
+https://drive.google.com/file/d/1FxTTH1u0YQYOjxncyP_dgYJkqe8lD-NB/view?usp=sharing
+
+## Video walkthrough
+https://drive.google.com/file/d/1EMHYQUj7pELXN560Zg3RQH-5PUUCqI0s/view?usp=sharing
